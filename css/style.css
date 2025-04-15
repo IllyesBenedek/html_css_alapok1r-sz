@@ -1,10 +1,13 @@
-@import url('https://fonts.googleaps..com/css? family=Roboto:400 ,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
-html{
+
+html {
     height: 100%;
 }
-body{
+
+body {
     background: url("../pics/bg-body.gif") green repeat center center fixed;
     color: white;
-    font: bold 20px/27px 'Roboto',arial;
+    font: bold 20px/27px 'Roboto', sans-serif;
+    text-align: center;
 }
